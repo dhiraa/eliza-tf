@@ -1,0 +1,23 @@
+{"intents": [
+  {"tag": "greeting",
+    "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day"],
+    "responses": ["Hello, thanks for visiting. For more details check @ https://www.pramati.com/",
+      "Good to see you again. For more details check @ https://www.pramati.com/",
+      "Hi there, how can I help? For more details check @ https://www.pramati.com/"],
+    "context_set": ""
+  },
+  {"tag": "goodbye",
+    "patterns": ["Bye", "See you later", "Goodbye"],
+    "responses": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."]
+  },
+  {"tag": "thanks",
+    "patterns": ["Thanks", "Thank you", "That's helpful"],
+    "responses": ["Happy to help!", "Any time!", "My pleasure"]
+  },
+  {"tag": "jd",
+    "patterns": ["What are avaialble jobs?", "What are open positions?",
+      "Do you have any openings?", "is there any jobs?", "can i join your company?" ],
+    "responses": ["Please follow below link for avaialble jobs: "]
+  }
+]
+}
