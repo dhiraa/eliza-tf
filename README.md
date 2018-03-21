@@ -13,7 +13,7 @@ python src/commands/run_experiments.py --mode train
 python src/commands/run_experiments.py --mode chat
 ```
 ### References
-- **https://chatbotsmagazinae.com/contextual-chat-bots-with-tensorflow-4391749d0077**
+- **https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077**
 - https://chatbotsmagazine.com/rx-finder-chatbot-with-tensorflow-813faa74e72
 - https://github.com/gunthercox/ChatterBot
 - **https://github.com/chamkank/flask-chatterbot**
